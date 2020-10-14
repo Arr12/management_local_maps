@@ -1,0 +1,13 @@
+.bootstrap-select .dropdown-menu .active a {
+  background-color:rgb(32, 145, 243);
+  color: #fff !important; 
+}
+.bootstrap-select .bs-searchbox:after{
+  margin:0 0 0 30px;
+}
+.bootstrap-select.btn-group .dropdown-menu.inner{
+  margin:0 0 0 30px;
+}
+.bootstrap-select .bs-searchbox, .bootstrap-select .bs-actionsbox, .bootstrap-select .bs-donebutton{
+  padding:0 0 5px 30px;
+}

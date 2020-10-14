@@ -1,0 +1,33 @@
+.info-box{
+  margin-bottom:10px;
+}
+.box-menu{
+  margin:20px 0 10px 15px;
+  display: none;
+  z-index: inherit;
+  text-align: center;
+  width: 95%;
+  height:100%;
+  padding:5px 9px 0 9px;
+}
+.box-menu a{
+  text-decoration:none;
+}
+.box-menu a p{
+  padding:5px;
+  color:#fff;
+  border-radius: 3px;
+  background-color: rgba(3, 3, 3, 0.129);
+}
+.box-menu a p:hover{
+  background-color:rgba(78, 78, 78, 0.6);
+}
+.box-menu button{
+  margin-bottom:10px;
+}
+.wrapping button{
+  width:100%;
+}
+.wrapping button:hover{
+  color:#fff;
+}
